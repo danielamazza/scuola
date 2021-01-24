@@ -21,7 +21,7 @@
 "Se impari da una sconfitta, non hai veramente perso.","Zig Zaglar","Scrittore e motivatore statunitense 6/11/1926 - 28/11/2012"
 "L'uomo è fatto in modo tale che, se qualcosa accende la sua anima, l'impossibile svanisce.","Jean de la Fontaine","Scrittore e poeta francese 8/7/1621 - 13/4/1695"
 "Se vuoi fare un passo avanti, devi perdere l'equilibrio per un attimo.","Massimo Gramellini","Giornalista e scrittore"
-"","",""
+"Non sprecare le tue energie cercando di cambiare le opinioni altrui. Cosa te ne importa? Fai ciò che senti di essere giusto e non preoccuparti se agli altri non piace.","Tina Jey","Attrice, autrice televisiva e produttrice statunitense"
 "","",""
 "","",""
 "","",""
