@@ -1,3 +1,4 @@
+# Gennaio
 "Quest'anno, come sempre, la tua occasione migliore sei tu.","Lorenzo Paoli","Coach, esperto di abitudini"
 "La pace viene da dentro, non cercarla fuori. Se non è dentro, non potrai trovarla da nessuna altra parte.","Buddha","Monaco, filosofo, mistico indiano 566 a.C. - 486 a.C"
 "Ciascuno di noi è portatore di punti di vista, non di assolute verità.","",""
@@ -29,8 +30,10 @@
 "Non dire 'Io quest'acqua non la berrò mai' perché il cammino è lungo e potresti avere sete.","",""
 "Portare una corazza può non far sentire il dolore, ma impedisce anche di fare entrare il piacere.","Celeste Holm","Attrice statunitense 29/4/1917 - 15/7/2012"
 "Molte più persone potrebbero imparare dai propri errori se non fossero così occupate a negarli.","",""
-"","",""
-"","","" 
+
+# Febbraio
+"Chiediti che cosa faresti se non avessi paura.","",""
+"Non rincorrere, non cercare, non domandare, non bussare a cento porte. Rilassati. Se ti rilassi, arriva. Se ti rilassi, è già lì. Se ti rilassi, inizi a vibrare assieme.","Osho","Misitico e maestro spirituale indiano 11/12/1931 - 19/1/1990" 
 "","",""
 "","",""
 "","",""
