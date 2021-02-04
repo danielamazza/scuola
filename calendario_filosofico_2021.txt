@@ -35,7 +35,7 @@
 "Chiediti che cosa faresti se non avessi paura.","",""
 "Non rincorrere, non cercare, non domandare, non bussare a cento porte. Rilassati. Se ti rilassi, arriva. Se ti rilassi, è già lì. Se ti rilassi, inizi a vibrare assieme.","Osho","Misitico e maestro spirituale indiano 11/12/1931 - 19/1/1990" 
 "Serenità è quando ciò che dici, ciò che pensi e ciò che fai sono in perfetta armonia.","Mahatma Gandhi","Politico, filosofo e avvocato indiano 2/10/1869 - 30/1/1948"
-"","",""
+"Le scuse non servono a nulla se gli atteggiamenti rimangono sempre gli stessi.","",""
 "","",""
 "","",""
 "","",""
