@@ -65,4 +65,47 @@
 "Investite in ciò che vi fa stare bene. Il resto evitatelo con classe.","Angelo De Pascalis","Scrittore e blogger"
 "E' un vero peccato che impariamo le lezioni della vita solo quando non ci servono più.","Oscar Wilde","Poeta, scrittore irlandese 16/10/1854 - 30/11/1900"
 "Perfezione... che parola triste. Distrugge ogni margine di miglioramento, non contempla possibilità di crescita e, quel che è peggio, toglie spazio alla fantasia.","Serena Santorelli","Scrittrice"
+"Nasciamo senza portare nulla, moriamo senza portare via nulla. E in mezzo litighiamo per possedere qualcosa.","Norandino","Condottiero turco 11/2/1118 - 15/5/1174"
+
+
+
+
+
+
+
+
+
+
+
+# Marzo
+"Quello che ottenete arrivando a destinazione non è tanto importante quanto ciò che diventate raggiungendola.","Epitteto","Filosofo greco 50 d.. 135 d.C."
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
 "","",""
