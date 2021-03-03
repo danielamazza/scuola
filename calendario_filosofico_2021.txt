@@ -79,8 +79,8 @@
 
 # Marzo
 "Quello che ottenete arrivando a destinazione non è tanto importante quanto ciò che diventate raggiungendola.","Epitteto","Filosofo greco 50 d.. 135 d.C."
-"","",""
-"","",""
+"Ci sono momenti della vita in cui è necessario decidere, non puoi più rimandare. I compagni di viaggio saranno due: la paura e l'entusiasmo. Se uno dei due manca, hai preso la decisione sbagliata.","Enzo De Somma","Scrittore"
+"Essere felici per niente o essere per nienre felici. Dipende da come sistemi le parole. Dipende da come sistemi le cose.","Gio Evan","Artista, scrittore e autore"
 "","",""
 "","",""
 "","",""
