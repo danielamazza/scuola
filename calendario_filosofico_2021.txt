@@ -107,5 +107,44 @@
 "Mi piaccioni le persone che dicono quello che pensano e soprattutto mi piaccioni le persone che fanno quello che dicono.","Snoop Dogg","Rapper, attore e produttore discografico statunitense"
 "Le domande nascono dalla confusione. Le risposte sorgono dal silenzio.","Ho Chi Minh","Rivoluzionario e politico vietnamita 19/1/1800 - 2/9/1969"
 "Se alzi un muro, pensa a cosa lasci fuori.","Dal libro 'Il Barone Rampante', Italo Calvino","Scrittore e partigiano 15/10/1923 - 19/9/1985"
+"Nel dubbio, ricordati sempre dove nasce il tuo sorriso e dove il tuo sorriso muore; lui non mente mai, lui ha già deciso.","Mauro Solidano","Autore"
+"Troppe coincidenze non sono mai un caso.","spiritualitatradotta.it",""
+
+
+
+
+
+
+
+
+# Aprile
+"A prendere posizione, a volte, si perde qualcuno. A non prenderla, a volte, si perde se stessi.","Alfredo Colella",""
+"Mi rendo conto che tutti i giorni ho qualcosa da imparare, qualcosa da dimenticare... e molte cose per cui ringraziare.","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
 "","",""
 "","",""
