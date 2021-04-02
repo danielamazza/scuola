@@ -104,7 +104,7 @@
 "Non giudicare sbagliato ciò che non conosci. Prendi l'occasione per comprendere.","Pablo Picasso","Pittore, scultore e litografo spagnolo 25/10/1881 - 8/4/1973"
 "Puoi salvare molte relazioni se comprendi un semplice fatto: le persone non sono sbagliate, sono diverse.","Brahma Kumaris","Scuola di pace e meditazione"
 "Il preoccuparsi non ruba mai al domani il suo dispiacere, priva solo l'oggi della sua gioia.","Leo Buscaglia","Docente e scrittore statunitense 31/3/1924 - 11/6/1998"
-"Mi piaccioni le persone che dicono quello che pensano e soprattutto mi piaccioni le persone che fanno quello che dicono.","Snoop Dogg","Rapper, attore e produttore discografico statunitense"
+"Mi piacciono le persone che dicono quello che pensano e soprattutto mi piaccioni le persone che fanno quello che dicono.","Snoop Dogg","Rapper, attore e produttore discografico statunitense"
 "Le domande nascono dalla confusione. Le risposte sorgono dal silenzio.","Ho Chi Minh","Rivoluzionario e politico vietnamita 19/1/1800 - 2/9/1969"
 "Se alzi un muro, pensa a cosa lasci fuori.","Dal libro 'Il Barone Rampante', Italo Calvino","Scrittore e partigiano 15/10/1923 - 19/9/1985"
 "Nel dubbio, ricordati sempre dove nasce il tuo sorriso e dove il tuo sorriso muore; lui non mente mai, lui ha già deciso.","Mauro Solidano","Autore"
