@@ -148,3 +148,43 @@
 "E' salutare ogni tanto fermarsi, staccare la spina, schiarire le idee, ritrovarsi e ricordare a se stessi: chi sei, dove stai andando, dove vuoi andare e soprattutto dove vuoi restare.","Giuseppe Donadei",""
 "Qualcuno ci ha mai promesso qualcosa? E allora perché attendiamo?","Cesare Pavese","Scrittore, poeta e saggista, 9/9/1908 - 25/8/1950"
 "Non dimenticare che dare gioia dà anche gioia","Friedrich Nietzsche","Filosofo, poeta, compositore tedesco, 15/10/1844 - 25/8/1900"
+
+
+
+
+
+
+
+
+
+# Maggio
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
