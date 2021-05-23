@@ -180,7 +180,7 @@
 "Chi ha un perché abbastanza forte, può superare qualsiasi come.","Freidrich Nietzsche","Filosofo, poeta, compositore tedersco, 15/10/1844 - 25/8/1900"
 "A volte devi indietreggiare di uno o due passi, riconsiderare, staccare per un mese. Non fare niente, non volere niente. La pace è fondamentale. Qualsiasi cosa tu voglia non l'avrai provandoci con troppa insistenza.","Charles Bukowski","Poeta e scrittore statunitense, 16/8/1920 - 9/3/1994"
 "Qualunqu cosa tu possa fare, o sognare di poter fare, incominciala. L'audacia ha in sè genio, potere, magia. Incomincia adesso.","",""
-"","",""
+"I nuovi inizi sono spesso travestiti da finali dolorosi.","Lao Tze","Antico filosofo e scrittore cinese, 604 a.C. - 531 a.C"
 "","",""
 "","",""
 "","",""
