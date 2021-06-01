@@ -181,6 +181,46 @@
 "A volte devi indietreggiare di uno o due passi, riconsiderare, staccare per un mese. Non fare niente, non volere niente. La pace è fondamentale. Qualsiasi cosa tu voglia non l'avrai provandoci con troppa insistenza.","Charles Bukowski","Poeta e scrittore statunitense, 16/8/1920 - 9/3/1994"
 "Qualunqu cosa tu possa fare, o sognare di poter fare, incominciala. L'audacia ha in sè genio, potere, magia. Incomincia adesso.","",""
 "I nuovi inizi sono spesso travestiti da finali dolorosi.","Lao Tze","Antico filosofo e scrittore cinese, 604 a.C. - 531 a.C"
+"La conoscenza è dentro di noi. Dobbiamo pensare unicamente ai consigli che daremmo agli altri e avere l'umiltà di verificare se li stiamo seguendo noi per primi.","Dal libro 'L'anno migliore della tua vita'","Jinny S. Ditzier, autrice"
+"Non rovinare mai il tuo presente per un passato che non ha futuro.","William Shakespeare","Drammaturgo e poeta inglese, 24/4/1564 - 23/4/1616"
+"A volte è solo uscendo di scena che si può capire quale ruolo si è svolto.","Stanislaw Jerzy Lec","Scrittore, poeta e aforista polacco, 6/3/1909 - 7/5/1966"
+"Sappiamo cosa deve essere fatto, tutto ciò che ci manca è la volontà di farlo.","Nelson Mandela","Politico sudafricano, 18/7/1918 - 5/12/2013"
+"Nella vita esistono due grandi obiettivi: il primo, ottenere ciò che si vuole e il secondo, goderselo. Solo i membri più saggi dell'umanità riescono a fare la seconda cosa.","Logan Pearsal Smith","Saggista e critico britannico, 18/10/1865 - 2/3/1946"
+"Ho sempre sostituito la paura di non farcela più con la speranza di farcela di nuovo.","Giorgio Faletti","Scrittore, attore, cantante e comico, 25/11/1950 - 4/7/2014"
+"Il tuo miglior insegnante è il tuo ultimo errore.","Ralph Nader","Avvocato, saggista, attivista e politico statunitense"
+"Le persone si inventano elaborate scuse quando non hanno il coraggio di dirti una semplice verità.","M.Bertuzzo",""
+
+
+
+
+
+
+
+
+# Giugno
+"Fai la prima mossa senza preoccuparti di come andrà a finire.","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
 "","",""
 "","",""
 "","",""
