@@ -217,6 +217,45 @@
 "Quando il tuo Maestro ti corregge, ringrazialo due volte: la prima perché ti sta tramandando il suo sapere, la seconda perché crede che tu sia capace di apprenderlo.","Proverbio giapponese",""
 "Rischia sempre il tutto per tutto nella vita, perché il dolore è temporaneo, il rimpianto è per sempre.","",""
 "Devi sapere cosa vuoi, altrimenti prendere cosa viene.","Proverbio cinese",""
+"Quello che ci frega nella vita è seguire quell'immagine nella nostra testa di ciò che dovremmo essere...","spiritualitatradotta.it",""
+"Passiamo la vita a correre sulla sabbia che scotta, impazienti di arrivare al mare ma poi, quando siamo lì davanti, ci tiriamo indietro perché l'acqua è troppo fredda.","",""
+"Prima di parlare domandati se ciò che dirai corrisponde a verità, se non provoca male a qualcuno, se è utile e, infine, se vale la pena turbare il silenzio per ciò che vuoi dire.","Buddha","Monaco, filosofo, mistico indiano, 566 a.C. - 486 a.C"
+"Il nostro compito nella vita non è superare gli altri, ma superare noi stessi.","Stewart B. Johnson",""
+"Sapere quando andar via è saggezza. Essere in grado di farlo è coraggio. Andare via a testa alta è dignità.","Luca frongia",""
+"Tu, in ogni caso, mettici il cuore, al resto ci penserà la vita.","",""
+"Essere se stessi in un mondo che cerca continuamente di cambiarti è la più grande delle conquiste.","Ralph Waldo Emerson","Filosofo, scrittore e poeta statunitense, 25/5/1803 - 27/4/1882"
+"Quando sostituirai 'perché mi sta succedendo questo' con 'cosa devo imparare da questo' tutto si trasformerà.","",""
+"Con il tempo vedi le cose più chiaramente, inizi a dare alle parole il giusto peso, ai gesti il giusto valore e alle persone la giusta importanza.","",""
+"L'unico modo per iniziare a fare qualcosa è smettere di parlare e iniziare a fare.","Walt Disney","Produttore ciinematografico, 5/12/1901 - 15/12/1966"
+"E' l'ora di svegliarsi. E non perché è mattina.","",""
+
+
+
+
+
+
+
+
+
+# Luglio
+"Accetta. Non per rassegnazione, ma niente ti fa perdere più energia che litigare con una situazione che non puoi cambiare.","Dalai Lama","Monaco buddhista tibetano"
+"La vita è breve, può succedere di tutto e di solito va così. Per cui non c'è motivo di stare ad angosciarsi con un sacco di se e ma...","Amy Whinwhouse","Cantautrice britannica, 14/7!983 - 23/7/2011"
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
+"","",""
 "","",""
 "","",""
 "","",""
