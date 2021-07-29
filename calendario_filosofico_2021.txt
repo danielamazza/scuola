@@ -240,7 +240,7 @@
 # Luglio
 "Accetta. Non per rassegnazione, ma niente ti fa perdere più energia che litigare con una situazione che non puoi cambiare.","Dalai Lama","Monaco buddhista tibetano"
 "La vita è breve, può succedere di tutto e di solito va così. Per cui non c'è motivo di stare ad angosciarsi con un sacco di se e ma...","Amy Whinwhouse","Cantautrice britannica, 14/7!983 - 23/7/2011"
-"","",""
+"Dì sempre quello che pensi, senza mai dimenticare quanto prezioso a volte sia il silenzio.","Xavier Wheel pseudonimo di Renato Volli","Autore"
 "","",""
 "","",""
 "","",""
