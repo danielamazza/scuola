@@ -303,7 +303,7 @@
 "Ogni volta che uso il mio istinto, vinco. Ogni volta che penso troppo perdo.","Alber Elbaz","Stilista israeliano"
 "L'unica cosa impossibile è quella che non provi a fare.","",""
 "Non ci è dato di scegliere la cornice del nosttro destino, ma ciò che vi mettiamo dentro è nostro.","Dag Hammarskjöld","Diplomatico, economista e scrittore svedese."
-"","",""
+"Fai molta attenzione a ciò che tolleri. Stai insegando agli altri come vuoi che ti trattino.","",""
 "","",""
 "","",""
 "","",""
