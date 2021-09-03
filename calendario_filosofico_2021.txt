@@ -319,8 +319,8 @@
 
 # Settembre
 "Mai avere rimpianti. Se è andata bene, è meraviglioso. Se è andata male, è esperienza.","Osvald Avery","Medico canadese, 21/10/1877 – 2/2/1955","https://it.wikipedia.org/wiki/Oswald_Theodore_Avery"
-"","","",""
-"","","",""
+"Se un sogno ha così tanti ostacoli, significa che è quello giusto.","Bob Marley","Cantatutore e attivista giamaicano, Nine Mile, 6 febbraio 1945 – Miami, 11 maggio 1981","https://it.wikipedia.org/wiki/Bob_Marley"
+"Il rimpianto per le cose fatte può essere mitigato dal tempo; è il rimpianto per quelle non fatte che non trova conforto.","Sydney J. Harris","Giornalista statunitense, 14 settembre 1917 – 7 dicembre 1986","https://en.wikipedia.org/wiki/Sydney_J._Harris"
 "","","",""
 "","","",""
 "","","",""
