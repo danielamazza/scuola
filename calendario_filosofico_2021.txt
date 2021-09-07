@@ -324,7 +324,7 @@
 "Onoro la tua libertà scegliendo ogni giorno la mia.","Emanuela Pacifici","Autrice","https://www.facebook.com/SelvadellaLuna"
 "E' una rara forma di intelligenza rimanere in silenzio ad ascoltare senza giudicare.","Giuseppe Donadei","Scittore","http://giuseppedonadei.blogspot.com/"
 "Se aspettiamo finché non saremo pronti... aspetteremo per il resto della nostra vita.","","",""
-"","","",""
+"Quando pensi di non aver capito niente, di essere in totale confusione, fidati: in realtà hai capito tutto ma scansi la risposta perché evidentemente non è quella che avresti voluto.","","",""
 "","","",""
 "","","",""
 "","","",""
