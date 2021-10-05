@@ -343,12 +343,11 @@
 "Il tempo è ciò che vogliamo di più, ma ciò che usiamo peggio.","William Penn","Politico e teologo britannico, Londra, 14 ottobre 1644 – Ruscombe, 30 luglio 1718","https://it.wikipedia.org/wiki/William_Penn"
 "Aver bisogno di essere approvati è come dire: 'Vale più il concetto su di me dell'opinione che ho di me stesso'","Wayne Walter Dyer",", "Psicologo statunitense, scrittore e docente, Detroit, 10 maggio 1940 – Maui, 29 agosto 2015","https://it.wikipedia.org/wiki/Wayne_Walter_Dyer"
 "La cosa più difficile è la decisione di agire, il resto è pura tenacia.","Amelia Earhart","Aviatrice statunitense, Atchison, 24 luglio 1897 – Oceano Pacifico, dispersa il 2 luglio 1937","https://it.wikipedia.org/wiki/Amelia_Earhart"
-"","","",""
-"","","",""
-"","","",""
-"","","",""
-"","","",""
-
+"Non allontanarti da te stesso per avvicinarti a qualcun altro.","","",""
+"Migliorarsi ogni giorno è una questione di scelte.","","",""
+"Più sei riconoscente, più sottrai nella tua vita cose per cui esserlo.","","",""
+"Senza entusiasmo non si è mai compiuto niente di grande.","Ralph Waldo Emerson","Filosofo, scrittore, saggista e poeta statunitense, Boston, 25 maggio 1803 – Concord, 27 aprile 1882","https://it.wikipedia.org/wiki/Ralph_Waldo_Emerson"
+"Noi puoi cambiare quello che succede. Ma puoi cambiare il modo in cui lo guardi. Cambiare punto di vista spesso ti porta di scoprire nuove cose e tutto può diventare un'opportunità.","","",""
 
 
 
@@ -359,11 +358,11 @@
 
 
 # Ottobre
-"","","",""
-"","","",""
-"","","",""
-"","","",""
-"","","",""
+"Localizza LA SOLUZIONE e non il problema.","","",""
+"Nessuno può fare per i bambini ciò che fanno i nonni: essi spargono polvere di stelle sulla vita dei più piccoli.","Max Harley","Giornalista e scrittore statunitense, Ithaca, 11 agosto 1921 – Seattle, 10 febbraio 1992)","https://it.wikipedia.org/wiki/Alex_Haley"
+"Spendi un po' di tempo, ogni giorno, per restare solo con te stesso ad ascoltare la tua voce interore.","","",""
+"Ci vuole una persona forte per chiudere scusa e una persona ancora più forte per perdonare.","","",""
+"Ogni giorno mi guardo allo specchio e mi chiedo: 'Se oggi fosse l'ultimo giorno della mia vita, vorrei fare quello che st per fare oggi?' Se la risposta è no per troppi giorni consecutivi, so che ho bisogno di cambiare qualcosa.","Steve Jobs","Imprenditore, informatico e inventore statunitense, San Francisco, 24 febbraio 1955 – Palo Alto, 5 ottobre 2011","https://it.wikipedia.org/wiki/Steve_Jobs"
 "","","",""
 "","","",""
 "","","",""
