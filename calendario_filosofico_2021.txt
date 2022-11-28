@@ -389,6 +389,27 @@
 "Le catene dell'abitudine sono troppo leggere per essere avvertite finchè non diventano troppo pesanti per essere spezzate.","Samuel Johnson","Critico letterario e poeta britannico 18/9/1709 - 13/12/1784","https://it.wikipedia.org/wiki/Samuel_Johnson"
 "Finché porterai un sogno nel cuore, non perderai mai il senso della vita.","Mahatma Gandhi","Politico, filosofo e avvocato indiano 2/10/1869 - 30/1/1948","https://it.wikipedia.org/wiki/Mahatma_Gandhi"
 "Non giudico le persone dai loro errori, ma dalla loro voglia di rimediare.","Bob Marley","Cantautore e attivista giamaicano 6/02/1945 - 11/5/1981","https://it.wikipedia.org/wiki/Bob_Marley"
+
+
+
+
+
+
+
+
+#Novembre
+"A pelle si sentono delle cose a cui le parole non sanno dare nome.","Alda Merini","Poetessa, aforista e scrittrice 21/03/1931 - 01/11/2009","https://it.wikipedia.org/wiki/Alda_Merini"
+"Coloro che ci hanno lasciati non sono degli assenti, sono solo degli invisibili: tengono i loro occhi pieni di gloria puntati nei nostri pieni di lacrime.","Sant'Agostino","Filosofo, vescovo e teologo romano 13/11/354 - 28/8/430","https://it.wikipedia.org/wiki/Agostino_d%27Ippona"
+"Chi mi conosce sa. Chi non mi conosce giudica. Chi pensa di sapere tutto su di me si illude. Per vedere ciò che pochi hanno visto, dovete andare dove pochi sono andati.","Buddha","Monaco, filosofo, mistico indiano 566 a.C. - 486 a.C.","https://it.wikipedia.org/wiki/Gautama_Buddha"
+"Stare bene ed essere felici non sono la stessa cosa. Non accontentarti.","spiritualitatradotta.it","",""
+"Focalizzatevi solo sui punti di forza di ogni individuo. Non cercate di renderlo perfetto. Al contrario, fate tutto quello che potete per aiutarlo a coltivare il proprio talento. Aiutatelo a diventare un po' di più di quello che è già.","Tom Peters","Scrittore statunitense",""
+"Tutto quello che non riesci a controllare ti sta insegnando a lasciare andare.","Jackson Kiddard","",""
+"Quando fai una scelta non pensare se è giusta o sbagliata. Pensa se è davvero quello che vuoi…","","",""
+"Non lasciarti influenzare dal parere altrui. Vai diritto per la tua strada senza voltarti indietro... solo tu sai chi sei e di cosa hai bisogno.","Gianfranco Abbate","",""
+"Se parti già dal presupposto che non ce la farai, è ovvio che non ce la farai.","Domenico J. Esposito","Scrittore",""
+"Ci sono persone con cui perdi tempo e persone con cui perdi il senso del tempo. E' solo questione di scelte.","N. Brunettini","",""
+"NO! Non sei costretto a sopportare tutto. La pazienza ha un limite e di solito quel limite è il bene che ti vuoi.","","",""
+"Fidati di te stesso. Ne sai più di quanto credi.","Benjamin Spock","Pediatra e canottiere statunitense 2/5/1903 - 15/3/1998","https://it.wikipedia.org/wiki/Benjamin_Spock"
 "","","",""
 "","","",""
 "","","",""
