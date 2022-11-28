@@ -415,6 +415,7 @@
 "Per due cose impara a non agitarti: per quelle che si possono cambiare e per quelle che non si possono cambiare.","Proverbio messicano"
 "Rispetta te stesso e gli altri ti rispetteranno.","Confucio","Filosofo cinese 551 a.C. - 479 a.C.","https://it.wikipedia.org/wiki/Confucio"
 "Non sempre i muri che incontri ti sbarrano la strada. Talvolta ti indicano il cammino migliore per te."
+"Perché non lo fai? E intanto i 'domani' diventano 'mai."
 "Trova qualcosa da fare nella vita che ti interessi veramente. Poniti degli obiettivi, perseguili e impegnati per raggiungere l'eccellenza. Fai sempre il meglio che puoi.","Chris Evert","Ex tennista e commentatrice televisiva statunitense","https://it.wikipedia.org/wiki/Chris_Evert"
 "Non arrenderti mai. Mai, mai, mai: in niente, grande o piccolo, importante o insignificante. Non arrenderti mai, se non di fronte ai tuoi principi o al buon senso.","Winston Churchill","Politico e storico britannico 30/11/1874 - 24/01/1965","https://it.wikipedia.org/wiki/Winston_Churchill"
 "Tutto ciò che ti fa paura ti sta insegnando ad avere coraggio."
